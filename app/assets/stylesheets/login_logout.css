@@ -1,0 +1,74 @@
+.form_app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+    margin: 20px 0;
+    color: white;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    margin: 20px 0 0;
+    color: white;
+}
+.new_user {
+    margin: 20px 0;
+    background-color: #f1faee;
+    padding: 80px 65px;
+    border-radius: 5px;
+}
+
+.new_user .field_input {
+    margin-bottom: 20px;
+}
+
+.new_user .field_input label {
+    font-size: 14px;
+    color: darkslateblue;
+}
+
+.new_user .field_input input {
+    width: 100%;
+    display: block;
+    margin-top: 8px;
+    padding: 7px;
+    font-size: 16px;
+    color: #7159c1;
+    border-radius: 2px;
+    border: 1px solid #ccddef;
+    outline-color: #7159c1;
+}
+
+.new_user .actions input {
+    display: block;
+    min-width: 217px;
+    border: none;
+    background-color: #1d3557;
+    color: white;
+    border-radius: 25px;
+    margin: 25px auto 15px;
+    padding: 10px;
+    transition: 0.3s all ease-in;
+}
+
+.new_user .actions input:hover {
+    background-color: #f1faee;
+    color: #1d3557;
+    font-weight: bold;
+}
+
+
+.new_user a {
+    font-size: 0.8rem;
+    text-decoration: none;
+    line-height: 2;
+    color: #333333;
+}
