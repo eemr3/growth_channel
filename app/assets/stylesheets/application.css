@@ -14,12 +14,19 @@
  *= require_self
  */
 
-ul.hmenu {
-    list-style: none;
-    margin: 0 0 2em;
+* {
+    box-sizing: border-box;
+    margin: 0;
     padding: 0;
 }
 
-ul.hmenu li {
-    display: inline;
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    background-color: #e63946;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 14px;
 }

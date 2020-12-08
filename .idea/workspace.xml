@@ -47,7 +47,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533713de-87d9-4653-997b-0956840dfb06" name="Default Changelist" comment="build(devise): adicionado gem devise" />
+    <list default="true" id="533713de-87d9-4653-997b-0956840dfb06" name="Default Changelist" comment="build(devise): adicionado gem devise">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rspec_status" beforeDir="false" afterPath="$PROJECT_DIR$/.rspec_status" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/devise/menu/_login_items.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/menu/_login_items.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +97,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ruby" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -284,6 +293,7 @@
       <workItem from="1607127233599" duration="2828000" />
       <workItem from="1607345226372" duration="599000" />
       <workItem from="1607384100446" duration="1558000" />
+      <workItem from="1607468447206" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="fix(rspec): organizado autoload">
       <created>1607128119315</created>
@@ -335,8 +345,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/growth_channel@GoogleAds__CostBenefit_List.rcov" NAME="GoogleAds::CostBenefit List Coverage Results" MODIFIED="1607128064205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
     <SUITE FILE_PATH="coverage/growth_channel@GoogleAds__Investment_List.rcov" NAME="GoogleAds::Investment List Coverage Results" MODIFIED="1607127797989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
-    <SUITE FILE_PATH="coverage/growth_channel@All_specs_in_spec__growth_channel.rcov" NAME="All specs in spec: growth_channel Coverage Results" MODIFIED="1607384840291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
     <SUITE FILE_PATH="coverage/growth_channel@All_specs_in_spec__growth_channel__1_.rcov" NAME="All specs in spec: growth_channel (1) Coverage Results" MODIFIED="1607467628123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
+    <SUITE FILE_PATH="coverage/growth_channel@All_specs_in_spec__growth_channel.rcov" NAME="All specs in spec: growth_channel Coverage Results" MODIFIED="1607468463732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
     <SUITE FILE_PATH="coverage/growth_channel@GoogleAds__CostBenefit.rcov" NAME="GoogleAds::CostBenefit Coverage Results" MODIFIED="1607127781445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
     <SUITE FILE_PATH="coverage/growth_channel@Validate_Format__Validate.rcov" NAME="Validate_Format::Validate Coverage Results" MODIFIED="1607127804278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
     <SUITE FILE_PATH="coverage/growth_channel@OrganicViews__View_count.rcov" NAME="OrganicViews::View count Coverage Results" MODIFIED="1607128722759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="growth_channel" />
