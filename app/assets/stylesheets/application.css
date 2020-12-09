@@ -13,7 +13,11 @@
  *= require_tree .
  *= require_self
  */
-
+:root {
+    --primary: #e63946;
+    --secondary: #1d3557;
+    --font-color: #f1faee;
+}
 * {
     box-sizing: border-box;
     margin: 0;
@@ -26,7 +30,7 @@ body {
 }
 
 body {
-    background-color: #e63946;
+    background-color: var(--primary);
     font-family: Roboto, Arial, sans-serif;
     font-size: 14px;
 }

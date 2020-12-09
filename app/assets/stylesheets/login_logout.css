@@ -41,27 +41,28 @@ h2 {
     margin-top: 8px;
     padding: 7px;
     font-size: 16px;
-    color: #7159c1;
     border-radius: 2px;
     border: 1px solid #ccddef;
-    outline-color: #7159c1;
+    outline-color: var(--primary);
 }
 
 .new_user .actions input {
     display: block;
     min-width: 217px;
     border: none;
-    background-color: #1d3557;
+    background-color: var(--secondary);
     color: white;
     border-radius: 25px;
     margin: 25px auto 15px;
     padding: 10px;
+    font-weight: bold;
+    outline: none;
     transition: 0.3s all ease-in;
 }
 
 .new_user .actions input:hover {
-    background-color: #f1faee;
-    color: #1d3557;
+    background-color: var(--font-color);
+    color: var(--secondary);
     font-weight: bold;
 }
 
