@@ -1,0 +1,24 @@
+.main_screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_screen p {
+    color: var(--font-color);
+    font-size: 1rem;
+}
+
+.hmenu {
+    padding: 15px;
+    text-align: end;
+    list-style: none;
+}
+
+.hmenu li a {
+    font-size: 1rem;
+    color: var(--font-color);
+    text-decoration: none;
+    font-weight: bold;
+}
